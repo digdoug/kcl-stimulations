@@ -1,4 +1,4 @@
-# kcl-stimulations
+# KCl Stimulations
 
 I wrote this code in the summer of 2012 while at Harvard Medical School.
 
